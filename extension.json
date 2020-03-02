@@ -13,6 +13,5 @@
   ],
   "schemas": [
     "release-schema.json"
-  ],
-  "dependencies": []
+  ]
 }
