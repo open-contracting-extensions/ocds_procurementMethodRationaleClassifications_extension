@@ -1,4 +1,4 @@
-# Procurement method rationale codes
+# Procurement method rationale classofications
 
 Adds an array to the Tender object to use classification codes and schemes in order to specify the procurement method rationale.
 
@@ -11,7 +11,7 @@ In the European Union, this extension's fields correspond to [eForms BT-135, BT-
 ```json
 {
   "tender": {
-    "procurementMethodRationaleCodes": [
+    "procurementMethodRationaleClassifications": [
       {
         "id": "D_NO_TENDERS_REQUESTS",
         "description": "No tenders or no suitable tenders/requests to participate in response to a procedure with prior call for competition",

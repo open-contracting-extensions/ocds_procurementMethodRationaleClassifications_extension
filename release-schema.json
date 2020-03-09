@@ -2,8 +2,8 @@
   "definitions": {
     "Tender": {
       "properties": {
-        "procurementMethodRationaleCodes": {
-          "title": "Procurement method rationale codes",
+        "procurementMethodRationaleClassifications": {
+          "title": "Procurement method rationale classifications",
           "description": "Classification codes and schemes in order to specify the procurement method rationale.",
           "type": "array",
           "items": {

@@ -1,12 +1,12 @@
 {
   "name": {
-    "en": "Procurement method rationale codes"
+    "en": "Procurement method rationale classifications"
   },
   "description": {
     "en": "Adds an array to the Tender object to use classification codes and schemes in order to specify the procurement method rationale."
   },
   "documentationUrl": {
-    "en": "https://github.com/open-contracting-extensions/ocds_procurementMethodRationaleCodes_extension"
+    "en": "https://github.com/open-contracting-extensions/ocds_procurementMethodRationaleClassifications_extension"
   },
   "compatibility": [
     "1.1"
