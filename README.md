@@ -1,6 +1,6 @@
-# Procurement method rationale classofications
+# Procurement method rationale classifications
 
-Adds an array to the Tender object to use classification codes and schemes in order to specify the procurement method rationale.
+Adds an array to the tender object to classify the procurement method rationale.
 
 ## Legal context
 
@@ -33,4 +33,4 @@ Report issues for this extension in the [ocds-extensions repository](https://git
 
 ## Changelog
 
-This extension was originally discussed as part of the [OCDS for EU profile](https://github.com/open-contracting-extensions/european-union/issues) and in [pull requests](https://github.com/open-contracting-extensions/ocds_procurementMethodRationaleCodes_extension/pulls?q=is%3Apr+is%3Aclosed).
+This extension was originally discussed as part of the [OCDS for EU profile](https://github.com/open-contracting-extensions/european-union/issues) and in [pull requests](https://github.com/open-contracting-extensions/ocds_procurementMethodRationaleClassifications_extension/pulls?q=is%3Apr+is%3Aclosed).

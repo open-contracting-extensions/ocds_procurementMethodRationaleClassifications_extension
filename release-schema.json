@@ -4,7 +4,7 @@
       "properties": {
         "procurementMethodRationaleClassifications": {
           "title": "Procurement method rationale classifications",
-          "description": "Classification codes and schemes in order to specify the procurement method rationale.",
+          "description": "The classifications of the procurement method rationale.",
           "type": "array",
           "items": {
             "$ref": "#/definitions/Classification"
