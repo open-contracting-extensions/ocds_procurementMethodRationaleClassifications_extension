@@ -6,7 +6,7 @@
     "en": "Adds an array to the tender object to classify the procurement method rationale."
   },
   "documentationUrl": {
-    "en": "https://github.com/open-contracting-extensions/ocds_procurementMethodRationaleClassifications_extension"
+    "en": "https://extensions.open-contracting.org/en/extensions/procurementMethodRationaleClassifications/"
   },
   "compatibility": [
     "1.1"
