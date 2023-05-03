@@ -4,7 +4,7 @@ Adds an array to the tender object to classify the procurement method rationale.
 
 ## Legal context
 
-In the European Union, this extension's fields correspond to [eForms BT-136 (Direct Award Justification Code)](https://docs.ted.europa.eu/eforms/latest/reference/business-terms/). For correspondences to eForms fields, see [OCDS for eForms](https://standard.open-contracting.org/profiles/eforms/).
+In the European Union, this extension's fields correspond to [eForms BT-136 (Direct Award Justification Code)](https://docs.ted.europa.eu/eforms/latest/reference/business-terms/). See [OCDS for eForms](https://standard.open-contracting.org/profiles/eforms/) for the correspondences to eForms fields. See [OCDS for the European Union](http://standard.open-contracting.org/profiles/eu/master/en/) for the correspondences to Tenders Electronic Daily (TED).
 
 ## Example
 
