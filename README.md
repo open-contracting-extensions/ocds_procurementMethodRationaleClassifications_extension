@@ -35,7 +35,7 @@ Report issues for this extension in the [ocds-extensions repository](https://git
 
 ### 2023-04-05
 
-* Add 'eforms-direct-award-justification' to the `+itemClassificationScheme.csv` codelist.
+* Add 'eu-direct-award-justification' to the `+itemClassificationScheme.csv` codelist.
 
 ### 2020-04-24
 
